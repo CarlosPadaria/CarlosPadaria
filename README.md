@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CarlosPadaria
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript,CSS and HTML
+- 👀 I’m interested in Web and Mobile development
+- 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on projects
 
 <!---
