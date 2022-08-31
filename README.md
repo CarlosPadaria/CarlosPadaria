@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @CarlosPadaria
-- 👀 I’m interested in Web and Mobile development
-- 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on projects
+- 👋 Olá, sou @CarlosPadaria
+- 👀 Estou me aprofundando em desenvolvimento web
+- 🌱 Contate-me no email: felipemalicheski@gmail.com
+- 💞️ Pronomes: Qualquer pronome
 
 <!---
 CarlosPadaria/CarlosPadaria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
