@@ -1,5 +1,4 @@
-## Olá, sou o Felipe Malicheski
-- 👋 Olá, sou @CarlosPadaria
+## 👋 Olá, sou o Felipe Malicheski
 - 👀 Estou me aprofundando em desenvolvimento web
 - 🌱 Contate-me no email: felipemalicheski@gmail.com
 - 💞️ Pronomes: Qualquer pronome
