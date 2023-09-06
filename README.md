@@ -16,16 +16,7 @@
   <img align="right" alt="Gato-pic" height="150" style="border-radius:50px;" src="https://media3.giphy.com/media/K1tgb1IUeBOgw/200.gif">
 </div>
 
-  <div id="tabnews">
-    
-  </div>
-<script>
-  async function chamarApi() {
-        const response = await fetch("https://www.tabnews.com.br/api/v1/contents/CarlosPadaria");
-        const itens = await response.json();
-        document.getElementById("tabnews").innerHTML = itens.length;
-    };
-</script>
+
   
   ##
   
