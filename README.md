@@ -1,6 +1,6 @@
-## 👋 Olá, sou o Felipe Malicheski
-- 👀 Estou me aprofundando em desenvolvimento web
-- 🌱 Contate-me no email: felipemalicheski@gmail.com
+## 👋 I'm the mage Lipe
+- 😎 Studying to become the master of PHP and web development
+- 🌱 My e-mail: felipemalicheski@gmail.com
 
 
 <div style="display: inline_block"><br>
