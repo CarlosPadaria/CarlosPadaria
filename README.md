@@ -1,7 +1,5 @@
 ## 👋 I'm the mage Lipe
 - 😎 Studying to become the master of PHP and web development
-- 🌱 My e-mail: felipemalicheski@gmail.com
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
