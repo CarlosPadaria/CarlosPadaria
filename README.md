@@ -15,7 +15,6 @@
   ##
   
 <div> 
-  <a href = "mailto:felipemalicheski@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-jos%C3%A9-malicheski-janu%C3%A1rio-1984b9214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   
