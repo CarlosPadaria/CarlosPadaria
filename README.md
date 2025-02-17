@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Felipe!
 
-I'm a **Information Science** student with a strong interest in **Business Intelligence** and **Data Analysis**. 
+I'm a **Information Science** student with a strong interest in **Business Intelligence** and **Data**. 
 
 ## About me
 
