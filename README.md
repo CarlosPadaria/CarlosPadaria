@@ -4,7 +4,7 @@ I'm a **Information Science** student with a strong interest in **Business Intel
 
 ## About me
 
-🔍 I'm currently looking for opportunities in the fields of data and bussiness
+🔍 I'm currently looking for opportunities in the fields of data and business<br>
 🎓 I hold a technical degree in **Systems Development**
 
 ## Tech and tools
